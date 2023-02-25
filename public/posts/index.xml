@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on NullSafe64</title>
+    <link>https://nullsafe64.github.io/blog/posts/</link>
+    <description>Recent content in Posts on NullSafe64</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nullsafe64.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Minha Jornada Como Desenvolvedor</title>
+      <link>https://nullsafe64.github.io/blog/posts/a-minha-jornada-como-desenvolvedor/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nullsafe64.github.io/blog/posts/a-minha-jornada-como-desenvolvedor/</guid>
+      <description>// Introdução &amp;ndash; Sem querer, autodidata ¯\_(ツ)_/¯ Quando eu tinha 17 anos comecei a estudar programação. Não tive influência direta de alguém, na verdade. Em um determinado dia, apenas pesquisei no YouTube: &amp;ldquo;como iniciar na programação&amp;rdquo;, e encontrei um vídeo do canal Código Fonte TVfalando sobre o início da caminhada na tecnologia e posteriormente fazendo recomendação da linguagem Python, e essa foi alvo da próxima pesquisa, onde encontrei o canal Curso em Vídeo, que ensinava programação pra&amp;rsquo; iniciantes.</description>
+    </item>
+    
+  </channel>
+</rss>
