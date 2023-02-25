@@ -1,5 +1,5 @@
 
-baseURL = 'nullsafe64.github.io/'
+baseURL = 'https://nullsafe64.github.io/blog/'
 languageCode = 'pt-BR'
 title = 'NullSafe64'
 metaDataFormat = "yaml"
