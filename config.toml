@@ -1,7 +1,7 @@
 
 baseURL = 'https://nullsafe64.github.io/blog/'
 languageCode = 'pt-BR'
-title = 'NullSafe64'
+title = 'Blog NullSafe64'
 metaDataFormat = "yaml"
 theme = "blist"
 
