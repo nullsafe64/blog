@@ -30,7 +30,7 @@ publishDir = "docs"
 		weight = 2
 
 [params]
-  logo = "logo.png"
+  logo = "https://raw.githubusercontent.com/nullsafe64/blog/main/static/logo.png"
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
