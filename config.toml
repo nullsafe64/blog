@@ -11,14 +11,13 @@ publishDir = "docs"
 [languages]
 
   [languages.pt]
-	contentDir = "content/pt" #Portuguese
-	weight = 1
-	languageName = "Portuguese"
+    contentDir = "content/pt" #Portuguese
+    weight = 1
+    languageName = "Portuguese"
 	[languages.pt.params]
 	  introTitle = "Oi, eu sou o Carlos ツ"
 	  introSubtitle = "Desenvolvedor Salesforce Jr, Gamer e fã do Sleeping At Last."
 	  introPhoto = "https://images.unsplash.com/photo-1593007791459-4b05e1158229?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-	  logo = "/blist-logo.png"
 
 	[[languages.pt.menu.main]]
 		name = "Posts"
@@ -31,8 +30,7 @@ publishDir = "docs"
 		weight = 2
 
 [params]
-	DateForm = "2023-02-24"
-
+  logo = "logo.png"
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
